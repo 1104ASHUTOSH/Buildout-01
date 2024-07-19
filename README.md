@@ -1,4 +1,4 @@
-# Buildout-01
+# LeaderBoardApplication
 A structured and professional Spring Boot application with MongoDB for managing a leaderboard.
 
 Project Structure
